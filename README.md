@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **making it easy to transfer money through whatsapp, as easy as sending a dm.**
 
-- 🌱 I’m currently learning **Graphql, indepth Docker, NEST js and other Javascript framworks**
+- 🌱 I’m currently learning **Graphql, indepth Docker, NEST js and other Javascript frameworks**
 
 - 💬 Ask me about **testing jest,express, rpc and microservices**
 
