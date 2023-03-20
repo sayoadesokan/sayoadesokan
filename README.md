@@ -1,13 +1,13 @@
 [![MasterHead](https://www.clio.com/wp-content/uploads/2020/08/Clio_2020-Blog_Image-Programming_for_Lawyers.png)](https://adesayoadesokan.com)
 <h1 align="center">Hi 👋, I'm Adesokan Adesayo</h1>
-<h3 align="center">A backend Javascript engineer enthusiastic about taking on complicated and tasking builds to create efficient, effective and easily managed while open to using both new and old tools for the build.</h3>
+<h3 align="center">I'm a backend engineer who loves taking on the toughest of builds and turning them into elegant, efficient, and easily scalable projects. Think of me as the superhero of the server-side world, swooping in to tackle even the most complicated and daunting tasks with ease. Whether it's building robust APIs or optimizing database performance, I'm always up for a challenge and dedicated to delivering top-notch results. So if you need a backend wizard to make your project shine, look no further than yours truly!</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-- 🔭 I’m currently working on **making it easy to transfer money through whatsapp, as easy as sending a dm.**
+- 🔭 I’m currently working on [a digital financial solution with the goal of offering digital financial solutions to the 'unbanked'.](https://ill-pink-bullfrog-coat.cyclic.app/)
 
-- 🌱 I’m currently learning **Graphql, indepth Docker, NEST js and other Javascript frameworks**
+- 🌱 I’m currently learning **how to build better and more efficient software, prioritize clean code, adopt best practices for testing and optimization, stay current with industry trends, to deliver the best possible user experience**
 
-- 💬 Ask me about **testing jest,express, rpc and microservices**
+- 💬 Ask me about **testing jest,express, rpc and microservices*, will try my best to answer.*
 
 - 📫 How to reach me **sayosokan@gmail.com**
 
