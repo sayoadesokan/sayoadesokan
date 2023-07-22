@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adesokan Adesayo</h1>
 <h3 align="center">I'm a backend engineer who loves taking on the toughest of builds and turning them into elegant, efficient, and easily scalable projects. Whether it's building robust APIs or optimizing database performance, I'm always up for a challenge and dedicated to delivering top-notch results.</h3>
-<img align="right" alt="Coding" width="400">
 
 - 🔭 I’m currently working on [a digital financial solution with the goal of offering digital financial solutions to the 'unbanked'.](https://ill-pink-bullfrog-coat.cyclic.app/)
 
