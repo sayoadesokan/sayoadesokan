@@ -3,12 +3,6 @@
 
 - 🔭 I’m passionate about technology for change & inclusion.
 
-- 🌱 I’m currently learning **how to build better and more efficient software, prioritize clean code, adopt best practices for testing and optimization, stay current with industry trends, to deliver the best possible user experience**
-
-- 💬 Ask me about **testing jest,express, rpc and microservices*, will try my best to answer.*
-
-- 📫 How to reach me **sayosokan@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adesayoadesokan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adesayoadesokan" height="30" width="40" /></a>
