@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Adesokan Adesayo</h1>
-<h3 align="center">I'm a Software engineer.</h3>
 
 - 🔭 I’m passionate about technology for change & inclusion.
 
