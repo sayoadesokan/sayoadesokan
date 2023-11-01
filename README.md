@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adesokan Adesayo</h1>
 
 - 🔭 I’m passionate about technology for change & inclusion.
+- adesayoadesokan.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
