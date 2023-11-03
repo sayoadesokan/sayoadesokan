@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adesokan Adesayo</h1>
 
 - 🔭 I'm passionate about technology for change & inclusion.
-- 🖥️ I am a software engineer with a proven track record.
-- 2+ years of experience in building software for production.
-- Node.js, TypeScript, and currently learning Ruby.
+- 🖥️ 2+ years of experience in building software for production.
+- Node.js, TypeScript, Testing, Containerization.
+- For more details: adesayoadesokan.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
