@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adesokan Adesayo</h1>
 
 - 🔭 I'm passionate about technology for change & inclusion.
-- 🖥️ 2+ years of experience in building software for production.
+- 🖥️ 3+ years of experience in building software for production.
 - Node.js, TypeScript, NestJs, Testing, Containerization.
 - Visit: <a href="https://adesayoadesokan.com" target="blank">adesayoadesokan.com </a>
 
