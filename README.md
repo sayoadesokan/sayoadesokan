@@ -2,7 +2,7 @@
 
 - 🔭 I'm passionate about technology for change & inclusion.
 - 🖥️ 2+ years of experience in building software for production.
-- Node.js, TypeScript, NestJs, Testing, Containerization.
+- Node.js, TypeScript, NestJs, Go, Testing, Containerization.
 - Visit: <a href="https://adesayoadesokan.com" target="blank">adesayoadesokan.com </a>
 
 <h3 align="left">Connect with me:</h3>
