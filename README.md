@@ -5,7 +5,7 @@
 - Node.js, TypeScript, NestJs, Go, Testing, DevOps.
 - Visit: <a href="https://adesayoadesokan.com" target="_blank">adesayoadesokan.com</a>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 
 <p align="left">
   <a href="https://twitter.com/adesayoadesokan" target="_blank">
